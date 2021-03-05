@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Capitales de África</string>
+    <string name="indicaCapital">INDICA SU CAPITAL</string>
+    <string name="buttonText">Pulse para empezar</string>
+</resources>
